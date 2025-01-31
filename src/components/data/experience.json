@@ -1,41 +1,63 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
+    "role": "Trainee",
+    "organisation": "Steel Strips Wheels Ltd",
+    "startDate": "Dec 2016", 
+    "endDate": "April 2018",
+    "location": "Chennai",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
-    ],
-    "imageSrc": "company/google.png"
+      "Trainee",
+      "made a significant difference by designing for manufacture of critical spares in-house"
+    ]
+   
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Junior Engineer",
+    "organisation": "Sigma precisions",
+    "startDate": "August 2018",
+    "endDate": "June 2019",
+    "location": "Hyderabad",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
-    ],
-    "imageSrc": "company/microsoft.png"
+      "Worked on Windows 10 terminalUsed the experience gained in SSWL Chennai and implemented few processes under workshop to reduce the maintenance cost by 25% PM"
+      
+    ]
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Motion Graphics Artist",
+    "organisation": "Vijayeesam",
+    "startDate": "July 2019",
+    "endDate": "October 2020",
+    "location": "Hyderabad",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
-    ],
-    "imageSrc": "company/netflix.png"
+      "Working with Vijay Eesam has given me good exposure to the industry of films. I have picked up a few problem statements & solved them using the technology and resources available to increase the e ciency and productivity of the whole team with cross functional leadership."
+    
+    ]
+    
+  },
+  {
+    "id": 4,
+    "role": "Motion Graphics Artist",
+    "organisation": "Occult Studios—Founder",
+    "startDate": "october 2020",
+    "endDate": " present",
+    "location": "Hyderabad",
+    "experiences": [
+      " Starting my own brand has helped me understanding the insights on ● Being productive ● Cost management ● Clearcommunication ● Collaboration ● Growth mindset ● Creativity and innovation"
+    ]
+    },
+  {
+    "id": 3,
+    "role": " Brands served",
+    
+    "startDate": " Kala media, Pixel army, eyecatch advertisements, AKKOWW, Vijayeesam, Vernier Dynamics",
+    
+    "location": "Hyderabad",
+    "experiences": [
+      "Motion Graphics Artist"
+    ]
+    
   }
 ]

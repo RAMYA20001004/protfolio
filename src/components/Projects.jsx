@@ -4,61 +4,36 @@ import project from "./data/projects.json";
 const Projects = () => {
   return (
     <>
-      <div className="container projects my-5" id="projects">
-        <h1>PROJECTS</h1>
-        <div className="row my-5 d-flex justify-content-center align-items-center">
-          {project.map((data) => (
+    <div className="container skills my-3" id="skills">
+      <h1>PROJECT</h1>
+      <div className="items p-3">
+        {project.map((data) => (
+          <>
             <div
-              className="col-md-2 col-lg-3 col-xl-4 d-flex justify-content-center align-items-center my-3"
-              key={data.key}
+              className="text-center item"
+              data-aos="flip-left"
+              data-aos-duration="1000"
             >
-              <div
-                className="card bg-dark text-light text-center project-section"
-                style={{
-                  width: "18rem",
-                  border: "2px solid yellow",
-                  // boxShadow: "5px 5px 10px 10px rgba(101, 175, 10, 0.5)",
-                }}
-                data-aos="flip-right"
-                data-aos-duration="1000"
-              >
-                <div className=" d-flex justify-content-center align-items-center p-3">
-                  <img
-                    src={data.imageSrc}
-                    className="card-img-top"
-                    alt="..."
-                    style={{
-                      height: "200px",
-                      width: "250px",
-                      border: "1px solid yellow",
-                      borderRadius: "10px",
-                    }}
-                  />
-                </div>
-                <div className="card-body">
-                  <h5 className="card-title">{data.title}</h5>
-                  <p className="card-text">{data.description}</p>
-                  <a
+              <img
+                src={`/assets/${data.imageSrc}`}
+                alt=""
+                style={{ width: "70px", height: "70px" }}
+              />
+              <h4>{data.title}</h4>
+              <a
                     href={data.source}
                     className="btn btn-primary mx-3"
                     target="_blank"
                   >
-                    Demo
+                    occultstudios
                   </a>
-                  <a
-                    href={data.demo}
-                    className="btn btn-warning"
-                    target="_blank"
-                  >
-                    Code
-                  </a>
-                </div>
-              </div>
+
             </div>
-          ))}
-        </div>
+          </>
+        ))}
       </div>
-    </>
+    </div>
+  </>
   );
 };
 

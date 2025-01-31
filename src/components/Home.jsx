@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "../pdf/resume.pdf";
+import pdf from "../pdf/Manoj K - Resume.pdf";
 import Typed from "typed.js";
 import { useEffect, useRef } from "react";
 // import heroImg from ''
@@ -10,9 +10,9 @@ const Home = () => {
   useEffect(() => {
     const options = {
       strings: [
-        "Welcome to my profile",
-        "my is name Nikhil Pusala",
-        "I'm Data Analyst",
+        "Welcome to My Profile",
+        "my is name Manoj Kumar",
+        "I'm 3D artist",
        
       ], // Array of strings to display
       typeSpeed: 50, // Typing speed in milliseconds

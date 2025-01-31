@@ -17,7 +17,7 @@ const Contact = () => {
         id="contact"
       >
         <div className="social">
-          <a href="https://www.linkedin" target="_blank" className="items">
+          <a href="https://www.instagram.com/occultstudios?igsh=bnhzZGZrc2QxaDUwS" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
           <a href="https://www.linkedin" target="_blank" className="items">
@@ -26,14 +26,14 @@ const Contact = () => {
           <a href="https://www.linkedin" target="_blank" className="items">
             <FaLinkedin className="icons" />{" "}
           </a>
-          <a href="https://www.linkedin" target="_blank" className="items">
+          {/* <a href="https://www.linkedin" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
-          </a>
-          <a href="https://www.linkedin" target="_blank" className="items">
+          </a> */}
+          {/* <a href="https://www.linkedin" target="_blank" className="items">
             <FaGithub className="icons" />
-          </a>
+          </a> */}
           <a
-            href="mailto:malakars041@gmail.com"
+            href="mailto:Manojkumar6358@gmail.com"
             target="_blank"
             className="items"
           >

@@ -1,35 +1,35 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": " 3D Modeling"
+    },
+ 
+  {
+    "title": " 3D Animation"
+   
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Auto-CAD "
+    
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "title": "Photoshop"
+    
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "Motion Graphics"
+   
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title":"Blender"
+   
   },
   {
-    "title":"Firebase",
-    "imageSrc":"skills/firebase.png"
+    "title": "Illustrator"
+   
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "Nuke"
+    
   },
   {
     "title": "Figma",
